@@ -2,11 +2,6 @@
 
 Trabalho Prático no âmbito da Unidade Curricular de Sistemas Operativos
 
-### Grupo de Trabalho:
-- [Afonso Bessa](https://github.com/AsseB2519)
-- [João Barroso](https://github.com/JoaoBarroso25)
-- [Francisco Claudino](https://github.com/carapokebao)
-
 **<ins> Grupo </ins>**
 * [Afonso Bessa](https://github.com/AsseB2519) - a95225
 * [Francisco Claudino](https://github.com/Francisco658) - a89493
@@ -14,7 +9,8 @@ Trabalho Prático no âmbito da Unidade Curricular de Sistemas Operativos
 
 **Licenciatura em Engenharia Informática**
 
-**Universidade do Minho (2021/2022)**
+**Universidade do Minho (2022/2023)**
+
 
 ## Rastreamento e Monitorização da Execução de Programas
 
