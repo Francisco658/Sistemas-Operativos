@@ -9,7 +9,7 @@ Trabalho Prático no âmbito da Unidade Curricular de Sistemas Operativos
 
 **<ins> Grupo </ins>**
 * [Afonso Bessa](https://github.com/AsseB2519) - a95225
-* [Francisco Claudino](https://github.com/carapokebao) - a89493
+* [Francisco Claudino]([https://github.com/carapokebao](https://github.com/Francisco658)) - a89493
 * [João Barroso](https://github.com/JoaoBarroso25) - a95195
 
 **Licenciatura em Engenharia Informática**
