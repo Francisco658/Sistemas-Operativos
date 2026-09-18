@@ -1,9 +1,20 @@
-# Sistemas Operativos 
+# Sistemas Operativos - Trabalho Prático
+
+Trabalho Prático no âmbito da Unidade Curricular de Sistemas Operativos
 
 ### Grupo de Trabalho:
 - [Afonso Bessa](https://github.com/AsseB2519)
 - [João Barroso](https://github.com/JoaoBarroso25)
 - [Francisco Claudino](https://github.com/carapokebao)
+
+**<ins> Grupo </ins>**
+* Afonso Bessa - a95225
+* Francisco Claudino - a89493
+* João Barroso - a95195
+
+**Licenciatura em Engenharia Informática**
+
+**Universidade do Minho (2021/2022)**
 
 ## Rastreamento e Monitorização da Execução de Programas
 
