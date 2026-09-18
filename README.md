@@ -38,5 +38,3 @@ O **Cliente** deve ser criado com uma interface de linha de comando para interag
 - Execução encadeada de programas
 - Armazenamento de informação sobre programas terminados
 - Consulta de programas terminados
-
-Mais promenor sobre cada uma destas funcionalidades, bem como, Interface e Modo de Utilização ou até da Makefile encontra-se no [Enunciado](Enunciado_do_Trabalho_Prático.pdf) de apresentação do Projeto.
